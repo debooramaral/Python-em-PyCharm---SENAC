@@ -1,0 +1,15 @@
+num = input ("Digite um Número: ")
+print ("O Número informado foi: ", num)
+
+print ("\n")
+
+a = int (input ("digite um número "))
+b = int (input ("digite mais uma vez, um número "))
+print ("o resultado destes números, são de: ", a+b)
+
+print ("\n")
+
+f = float (input("Qual é a temperatura (Farenheit): "))
+print ("Fº = ", (5*(f-32/9), "Cº"))
+
+print ("\n")
